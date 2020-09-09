@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    background-color: #4a4a4a;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 25px 0;
+    margin-bottom: 25px;
+    width: 100%;
+}
+
+main > article {
+    background-color: #e4e4e4;
+    width: 60%;
+    padding: 25px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+main > article > img {
+    width: 100%;
+}
+
+footer {
+    background-color: #4a4a4a;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 25px 0;
+    margin-top: 25px; 
+    width: 100%;
+}
